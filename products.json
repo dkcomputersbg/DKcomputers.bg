@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Gaming PC RTX 4070",
+    "price": "4500 лв",
+    "description": "Висок клас гейминг компютър",
+    "image": "images/pc1.jpg"
+  },
+  {
+    "name": "Office PC i5",
+    "price": "1800 лв",
+    "description": "Компютър за офис и домашна работа",
+    "image": "images/pc2.jpg"
+  }
+]
